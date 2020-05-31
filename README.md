@@ -2,4 +2,3 @@
 This is the sample file
 Checking
 Sample check
-simple
